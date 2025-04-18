@@ -3,7 +3,7 @@
 <br>
 🎓Study at the Universidade Cruzeiro do Sul em Análise e Desenvolvimento de Sistemas
 <br>
-👨‍💻My current focus is Python Back End for Web Applications
+👨‍💻My current focus is Front End for Web Applications
 <br>
 
 
