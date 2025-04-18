@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+my+name+is+Bianca+Medeiro;I'am+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71ACB&width=435&lines=Hello%2C+my+name+is+Bianca+Medeiro;I'am+Software+Developer)](https://git.io/typing-sv).
 <br>
 🎓Study at the Universidade Cruzeiro do Sul em Análise e Desenvolvimento de Sistemas
 <br>
